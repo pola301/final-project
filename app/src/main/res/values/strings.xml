@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">5MPK</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="Google_Api_Key">AIzaSyBOOPU9s4r-Wdo_x47hY7XCfnDcn1HehFI</string>
+    <string name="enter_location_coordinates">Enter Location Coordinates</string>
+    <string name="enter_destination_coordinates">Enter Destination Coordinates</string>
+    <string name="view_route">View Route On Map</string>
+    <string name="latitude_decimal">Latitude (decimal)</string>
+    <string name="longitude_decimal">Longitude (decimal)</string>
+    <string name="get_route">Get Route</string>
+    <string name="open">Open</string>
+    <string name="close">CLose</string>
+    <string name="bus_name">Bus Name</string>
+    <string name="example_ticket_price">10</string>
+    <string name="egyptian_pound_sign">E£</string>
+    <string name="login_password_hint">Password</string>
+    <string name="login_password_Confirm_hint">Confirm Password</string>
+    <string name="login_email_hint">Email</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="default_total_price">20 E£</string>
+    <string name="estimated_total_cost">Estimated\nTotal Cost</string>
+    <string name="default_total_trip_time">5 hours, 55 minutes</string>
+    <string name="estimated_travel_time">Estimated\nTravel Time</string>
+</resources>
